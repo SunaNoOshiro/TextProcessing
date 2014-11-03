@@ -1,0 +1,283 @@
+2014-11-03 11:17:00,416  INFO [main] - com.epam.ryndych.Main.main 23 - Start program
+2014-11-03 11:17:00,432  INFO [main] - com.epam.ryndych.Main.readFromFile 49 - Read text from file: 'input.txt'
+2014-11-03 11:22:32,592  INFO [main] - com.epam.ryndych.Main.main 23 - Start program
+2014-11-03 11:22:32,592  INFO [main] - com.epam.ryndych.Main.readFromFile 57 - Read text from file: 'input.txt'
+2014-11-03 11:24:57,581  INFO [main] - com.epam.ryndych.Main.main 23 - Start program
+2014-11-03 11:24:57,581  INFO [main] - com.epam.ryndych.Main.readFromFile 63 - Read text from file: 'input.txt'
+2014-11-03 11:25:13,067  INFO [main] - com.epam.ryndych.Main.main 23 - Start program
+2014-11-03 11:25:13,067  INFO [main] - com.epam.ryndych.Main.readFromFile 64 - Read text from file: 'input.txt'
+2014-11-03 11:25:23,411  INFO [main] - com.epam.ryndych.Main.main 23 - Start program
+2014-11-03 11:25:23,411  INFO [main] - com.epam.ryndych.Main.readFromFile 63 - Read text from file: 'input.txt'
+2014-11-03 11:42:27,305  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 11:42:27,305  INFO [main] - com.epam.ryndych.Main.readFromFile 90 - Read text from file: 'input.txt'
+2014-11-03 11:42:46,598  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 11:42:46,613  INFO [main] - com.epam.ryndych.Main.readFromFile 91 - Read text from file: 'input.txt'
+2014-11-03 11:47:17,055  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 11:47:17,055  INFO [main] - com.epam.ryndych.Main.readFromFile 100 - Read text from file: 'input.txt'
+2014-11-03 11:47:45,695  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 11:47:45,695  INFO [main] - com.epam.ryndych.Main.readFromFile 101 - Read text from file: 'input.txt'
+2014-11-03 11:49:37,747  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 11:49:37,747  INFO [main] - com.epam.ryndych.Main.readFromFile 104 - Read text from file: 'input.txt'
+2014-11-03 11:50:17,672  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 11:50:17,672  INFO [main] - com.epam.ryndych.Main.readFromFile 104 - Read text from file: 'input.txt'
+2014-11-03 11:50:39,928  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 11:50:39,928  INFO [main] - com.epam.ryndych.Main.readFromFile 104 - Read text from file: 'input.txt'
+2014-11-03 11:51:25,007  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 11:51:25,007  INFO [main] - com.epam.ryndych.Main.readFromFile 104 - Read text from file: 'input.txt'
+2014-11-03 11:52:06,264  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 11:52:06,264  INFO [main] - com.epam.ryndych.Main.readFromFile 104 - Read text from file: 'input.txt'
+2014-11-03 11:52:34,313  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 11:52:34,313  INFO [main] - com.epam.ryndych.Main.readFromFile 104 - Read text from file: 'input.txt'
+2014-11-03 11:52:43,532  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 11:52:43,532  INFO [main] - com.epam.ryndych.Main.readFromFile 104 - Read text from file: 'input.txt'
+2014-11-03 12:03:01,245  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 12:03:01,245  INFO [main] - com.epam.ryndych.Main.readFromFile 115 - Read text from file: 'input.txt'
+2014-11-03 12:03:59,753  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 12:03:59,753  INFO [main] - com.epam.ryndych.Main.readFromFile 115 - Read text from file: 'input.txt'
+2014-11-03 12:04:12,643  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 12:04:12,643  INFO [main] - com.epam.ryndych.Main.readFromFile 115 - Read text from file: 'input.txt'
+2014-11-03 12:04:28,750  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 12:04:28,750  INFO [main] - com.epam.ryndych.Main.readFromFile 115 - Read text from file: 'input.txt'
+2014-11-03 12:04:49,998  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 12:04:49,998  INFO [main] - com.epam.ryndych.Main.readFromFile 115 - Read text from file: 'input.txt'
+2014-11-03 12:04:50,936  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 12:04:50,936  INFO [main] - com.epam.ryndych.Main.readFromFile 115 - Read text from file: 'input.txt'
+2014-11-03 12:04:51,826  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 12:04:51,842  INFO [main] - com.epam.ryndych.Main.readFromFile 115 - Read text from file: 'input.txt'
+2014-11-03 12:05:04,004  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 12:05:04,020  INFO [main] - com.epam.ryndych.Main.readFromFile 115 - Read text from file: 'input.txt'
+2014-11-03 12:05:27,628  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 12:05:27,644  INFO [main] - com.epam.ryndych.Main.readFromFile 115 - Read text from file: 'input.txt'
+2014-11-03 12:13:53,080  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 12:13:53,096  INFO [main] - com.epam.ryndych.Main.readFromFile 122 - Read text from file: 'input.txt'
+2014-11-03 12:14:46,531  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 12:14:46,546  INFO [main] - com.epam.ryndych.Main.readFromFile 122 - Read text from file: 'input.txt'
+2014-11-03 12:47:33,235  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 12:47:33,250  INFO [main] - com.epam.ryndych.Main.readFromFile 77 - Read text from file: 'input.txt'
+2014-11-03 12:50:24,138  INFO [main] - com.epam.ryndych.Main.main 26 - Start program
+2014-11-03 12:50:24,154  INFO [main] - com.epam.ryndych.Main.execute 25 - Start program
+2014-11-03 12:50:24,154  INFO [main] - com.epam.ryndych.Main.readFromFile 76 - Read text from file: 'input.txt'
+2014-11-03 12:53:37,376  INFO [main] - com.epam.ryndych.Main.main 10 - Start program
+2014-11-03 12:53:37,376  INFO [main] - com.epam.ryndych.Main.execute 25 - Start program
+2014-11-03 12:53:37,376  INFO [main] - com.epam.ryndych.Main.readFromFile 58 - Read text from file: 'input.txt'
+2014-11-03 13:05:51,646  INFO [main] - com.epam.ryndych.Main.main 10 - Start program
+2014-11-03 13:05:51,666  INFO [main] - com.epam.ryndych.Main.execute 24 - Start program
+2014-11-03 13:05:51,666  INFO [main] - com.epam.ryndych.Main.readFromFile 57 - Read text from file: 'input.txt'
+2014-11-03 13:06:02,802  INFO [main] - com.epam.ryndych.Main.main 10 - Start program
+2014-11-03 13:06:02,818  INFO [main] - com.epam.ryndych.Main.execute 24 - Start program
+2014-11-03 13:06:02,818  INFO [main] - com.epam.ryndych.Main.readFromFile 57 - Read text from file: 'input.txt'
+2014-11-03 13:06:09,150  INFO [main] - com.epam.ryndych.Main.main 10 - Start program
+2014-11-03 13:06:09,150  INFO [main] - com.epam.ryndych.Main.execute 24 - Start program
+2014-11-03 13:06:09,150  INFO [main] - com.epam.ryndych.Main.readFromFile 57 - Read text from file: 'input.txt'
+2014-11-03 13:06:21,568  INFO [main] - com.epam.ryndych.Main.main 10 - Start program
+2014-11-03 13:06:21,573  INFO [main] - com.epam.ryndych.Main.execute 24 - Start program
+2014-11-03 13:06:21,573  INFO [main] - com.epam.ryndych.Main.readFromFile 57 - Read text from file: 'input.txt'
+2014-11-03 13:21:15,897  INFO [main] - com.epam.ryndych.Main.main 10 - Start program
+2014-11-03 13:21:15,897  INFO [main] - com.epam.ryndych.Main.execute 24 - Start program
+2014-11-03 13:21:15,897  INFO [main] - com.epam.ryndych.Main.readFromFile 61 - Read text from file: 'input.txt'
+2014-11-03 13:23:14,066  INFO [main] - com.epam.ryndych.Main.main 10 - Start program
+2014-11-03 13:23:14,072  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 13:23:14,072  INFO [main] - com.epam.ryndych.Main.readFromFile 51 - Read text from file: 'input.txt'
+2014-11-03 13:24:07,195  INFO [main] - com.epam.ryndych.Main.main 10 - Start program
+2014-11-03 13:24:07,195  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 13:24:07,195  INFO [main] - com.epam.ryndych.Main.readFromFile 51 - Read text from file: 'input.txt'
+2014-11-03 13:28:28,512  INFO [main] - com.epam.ryndych.Main.main 10 - Start program
+2014-11-03 13:28:28,528  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 13:28:28,528  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 13:29:05,261  INFO [main] - com.epam.ryndych.Main.main 10 - Start program
+2014-11-03 13:29:05,261  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 13:29:05,261  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 13:29:22,359  INFO [main] - com.epam.ryndych.Main.main 10 - Start program
+2014-11-03 13:29:22,359  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 13:29:22,359  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 13:29:27,742  INFO [main] - com.epam.ryndych.Main.main 10 - Start program
+2014-11-03 13:29:27,758  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 13:29:27,758  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 13:38:11,547  INFO [main] - com.epam.ryndych.Main.main 10 - Start program
+2014-11-03 13:38:11,547  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 13:38:11,547  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 13:56:31,094  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 13:56:31,094  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 13:56:31,094  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 13:56:55,696  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 13:56:55,696  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 13:56:55,696  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 13:57:54,472  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 13:57:54,472  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 13:57:54,472  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 13:58:35,977  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 13:58:35,977  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 13:58:35,977  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 13:59:02,568  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 13:59:02,584  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 13:59:02,584  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 13:59:59,007  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 13:59:59,007  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 13:59:59,007  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 14:00:55,498  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:00:55,498  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 14:00:55,498  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 14:01:20,884  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:01:20,884  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 14:01:20,900  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 14:01:45,167  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:01:45,183  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 14:01:45,183  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 14:02:29,562  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:02:29,562  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 14:02:29,562  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 14:03:09,723  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:03:09,723  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 14:03:09,723  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 14:08:52,781  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:09:49,574  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:10:43,065  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:12:09,322  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:15:02,997  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:15:23,024  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:16:54,995  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:17:41,547  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:18:15,117  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:18:40,816  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:21:55,841  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:23:02,913  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:23:44,498  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:25:11,654  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:25:50,694  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:26:36,065  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:27:36,139  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:28:24,538  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:30:00,011  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:32:07,878  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:32:42,184  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:33:40,143  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:34:15,619  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:36:00,649  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:36:38,966  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:37:26,900  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:37:55,945  INFO [main] - com.epam.ryndych.Main.main 12 - Start program
+2014-11-03 14:42:26,124  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 14:42:26,124  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 14:44:32,877  INFO [main] - com.epam.ryndych.Main.main 13 - Start program
+2014-11-03 14:45:25,240  INFO [main] - com.epam.ryndych.Main.main 13 - Start program
+2014-11-03 14:45:50,229  INFO [main] - com.epam.ryndych.Main.main 13 - Start program
+2014-11-03 14:46:34,877  INFO [main] - com.epam.ryndych.Main.main 13 - Start program
+2014-11-03 14:46:47,899  INFO [main] - com.epam.ryndych.Main.main 13 - Start program
+2014-11-03 14:52:13,137  INFO [main] - com.epam.ryndych.Main.main 13 - Start program
+2014-11-03 14:52:25,501  INFO [main] - com.epam.ryndych.Main.main 13 - Start program
+2014-11-03 14:52:36,898  INFO [main] - com.epam.ryndych.Main.main 13 - Start program
+2014-11-03 14:52:51,324  INFO [main] - com.epam.ryndych.Main.main 13 - Start program
+2014-11-03 14:53:56,632  INFO [main] - com.epam.ryndych.Main.main 13 - Start program
+2014-11-03 14:54:15,226  INFO [main] - com.epam.ryndych.Main.main 13 - Start program
+2014-11-03 14:55:49,198  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 14:55:49,198  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 14:57:59,483  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 14:59:53,926  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:01:08,461  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 15:01:08,461  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 15:02:16,075  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:03:03,359  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:03:09,326  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:03:21,182  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:04:45,249  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:06:47,908  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 15:06:47,908  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'input.txt'
+2014-11-03 15:10:23,596  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:11:13,703  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:12:01,243  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:12:54,671  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:13:34,579  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:13:58,792  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:16:19,354  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:20:12,715  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 15:20:12,715  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'C:\Users\Petro\git\TextProcessing\GreatTask2\input.txt'
+2014-11-03 15:20:34,134  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:20:44,881  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:20:49,555  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:21:46,715  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:22:12,121  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 15:22:12,121  INFO [main] - com.epam.ryndych.Main.readFromFile 55 - Read text from file: 'C:\Users\Petro\git\TextProcessing\GreatTask2\input.txt'
+2014-11-03 15:24:16,196  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:24:20,490  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 15:24:20,490  INFO [main] - com.epam.ryndych.Main.readFromFile 56 - Read text from file: 'C:\Users\Petro\git\TextProcessing\GreatTask2\input.txt'
+2014-11-03 15:45:52,530  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:45:59,340  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 15:45:59,340  INFO [main] - com.epam.ryndych.Main.readFromFile 62 - Read text from file: 'C:\Users\Petro\git\TextProcessing\GreatTask2\input.txt'
+2014-11-03 15:46:18,856  INFO [main] - com.epam.ryndych.Main.main 11 - Start program
+2014-11-03 15:46:24,162  INFO [main] - com.epam.ryndych.Main.execute 17 - Start program
+2014-11-03 15:46:24,162  INFO [main] - com.epam.ryndych.Main.readFromFile 62 - Read text from file: 'C:\Users\Petro\git\TextProcessing\GreatTask2\input.txt'
+2014-11-03 16:03:01,116 ERROR [main] - com.epam.ryndych.Main.<init> 17 - NotNumberException
+2014-11-03 16:03:27,102 ERROR [main] - com.epam.ryndych.Main.<init> 17 - NotNumberException
+2014-11-03 16:05:46,713 ERROR [main] - com.epam.ryndych.Main.<init> 18 - NotNumberException
+2014-11-03 16:05:55,113 ERROR [main] - com.epam.ryndych.Main.<init> 18 - NotNumberException
+2014-11-03 16:06:21,063 ERROR [main] - com.epam.ryndych.Main.<init> 18 - NotNumberException
+2014-11-03 16:08:44,562 ERROR [main] - com.epam.ryndych.Main.<init> 18 - NotNumberException
+2014-11-03 16:08:55,638 ERROR [main] - com.epam.ryndych.Main.<init> 18 - NotNumberException
+2014-11-03 16:29:19,845  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:29:19,845  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:29:19,860  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:29:50,642  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:29:50,658  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:29:50,673  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:29:50,673  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:30:23,295  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:30:23,295  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:30:23,310  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:30:23,310  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:31:36,349  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:31:36,365  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:31:36,365  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:31:36,381  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:31:44,646  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:31:44,662  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:31:44,677  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:31:44,677  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:31:54,572  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:31:54,587  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:31:54,587  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:31:54,587  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:03,392  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:03,408  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:03,408  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:03,408  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:11,247  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:11,247  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:11,263  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:11,263  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:17,107  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:17,122  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:17,122  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:17,122  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:51,931  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:51,946  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:51,946  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:32:51,946  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:35:30,169  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:35:30,200  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:35:30,200  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:35:30,200  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:38:00,572  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:38:00,588  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:38:00,588  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:38:00,588  INFO [main] - com.epam.ryndych.Main.before 18 - before class NumberTest
+2014-11-03 16:39:51,145  INFO [main] - com.epam.ryndych.Main.before 30 - before class NumberTest
+2014-11-03 16:39:51,160  INFO [main] - com.epam.ryndych.Main.before 30 - before class NumberTest
+2014-11-03 16:39:51,160  INFO [main] - com.epam.ryndych.Main.before 30 - before class NumberTest
+2014-11-03 16:39:51,160  INFO [main] - com.epam.ryndych.Main.before 30 - before class NumberTest
+2014-11-03 16:39:51,160 ERROR [main] - com.epam.ryndych.Main.failed 23 - NotNumberException
+2014-11-03 16:40:33,429  INFO [main] - com.epam.ryndych.Main.before 30 - before class NumberTest
+2014-11-03 16:40:33,445  INFO [main] - com.epam.ryndych.Main.before 30 - before class NumberTest
+2014-11-03 16:40:33,445  INFO [main] - com.epam.ryndych.Main.before 30 - before class NumberTest
+2014-11-03 16:40:33,445  INFO [main] - com.epam.ryndych.Main.before 30 - before class NumberTest
+2014-11-03 16:40:51,613  INFO [main] - com.epam.ryndych.Main.before 30 - before class NumberTest
+2014-11-03 16:40:51,628  INFO [main] - com.epam.ryndych.Main.before 30 - before class NumberTest
+2014-11-03 16:40:51,628  INFO [main] - com.epam.ryndych.Main.before 30 - before class NumberTest
+2014-11-03 16:40:51,628  INFO [main] - com.epam.ryndych.Main.before 30 - before class NumberTest
+2014-11-03 16:42:21,685  INFO [main] - com.epam.ryndych.Main.before 32 - before class NumberTest
+2014-11-03 16:42:21,701  INFO [main] - com.epam.ryndych.Main.succeeded 25 - testConstructor1(com.epam.ryndych.test.NumberTest)
+2014-11-03 16:42:21,701  INFO [main] - com.epam.ryndych.Main.before 32 - before class NumberTest
+2014-11-03 16:42:21,701  INFO [main] - com.epam.ryndych.Main.succeeded 25 - testConstructor2(com.epam.ryndych.test.NumberTest)
+2014-11-03 16:42:21,701  INFO [main] - com.epam.ryndych.Main.before 32 - before class NumberTest
+2014-11-03 16:42:21,701  INFO [main] - com.epam.ryndych.Main.succeeded 25 - testConstructor3(com.epam.ryndych.test.NumberTest)
+2014-11-03 16:42:21,701  INFO [main] - com.epam.ryndych.Main.before 32 - before class NumberTest
+2014-11-03 16:42:21,701  INFO [main] - com.epam.ryndych.Main.succeeded 25 - testConstructor4(com.epam.ryndych.test.NumberTest)
