@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.epam.ryndych.Main;
 import com.epam.ryndych.exception.NotNumberException;
 
 

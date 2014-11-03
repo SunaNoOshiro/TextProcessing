@@ -20,18 +20,31 @@ public class Text {
 	}
 
 	private void findSentences() {
-		// String regex =
-		// "[!?\"?!\\-\\(\\)\\[\\]{}.:;,~^#%*+$@&=|\\\\/_\']|[a-zA-Zà-ÿÀ-ß³¿º²ª¯´¥]+|[0-9]+";
-		String sentencesRegex = "\\s+[^.!?]*[.!?]";// ".*(['][^']*[']|[\"][^\"]*[\"]|[(][^)]*[)]|[{][^}]*[}]|[\\[][^\\]]*[\\]])";
+		String sentencesRegex = "[^.!?\\s][^.!?]*(?:[.!?](?!['\"]?\\s|$)[^.!?]*)*[.!?]?['\"]?(?=\\s|$)";
+//		Pattern sentencesPattern = Pattern.compile(
+//	            "# Match a sentence ending in punctuation or EOS.\n" +
+//	                    "[^.!?\\s]    # First char is non-punct, non-ws\n" +
+//	                    "[^.!?]*      # Greedily consume up to punctuation.\n" +
+//	                    "(?:          # Group for unrolling the loop.\n" +
+//	                    "  [.!?]      # (special) inner punctuation ok if\n" +
+//	                    "  (?!['\"]?\\s|$)  # not followed by ws or EOS.\n" +
+//	                    "  [^.!?]*    # Greedily consume up to punctuation.\n" +
+//	                    ")*           # Zero or more (special normal*)\n" +
+//	                    "[.!?]?       # Optional ending punctuation.\n" +
+//	                    "['\"]?       # Optional closing quote.\n" +
+//	                    "(?=\\s|$)", 
+//	                    Pattern.MULTILINE | Pattern.COMMENTS);
 		Pattern sentencesPattern = Pattern.compile(sentencesRegex);
 		Matcher matcher = sentencesPattern.matcher(text);
 
+		
 		while (matcher.find()) {
 			if (matcher.group().length() != 0) {
 				sentencesList.add(new Sentence(matcher.group().trim()));
-				// System.out.println(matcher.group().trim());
+				// System.out.println("\t"+matcher.group().trim());
 			}
 		}
+		System.out.println();
 	}
 
 	public ArrayList<Sentence> getSentencesList() {
@@ -72,6 +85,7 @@ public class Text {
 								// change the number of repetitions
 								int w = repetitionValues.get(l.toString());
 								repetitionValues.replace(l.toString(), w + 1);
+								map.replace(l.toString(),indexOfSentence );
 							}
 						}
 					}

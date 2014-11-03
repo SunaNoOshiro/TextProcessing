@@ -10,7 +10,10 @@ import java.nio.file.Paths;
 import java.nio.file.attribute.BasicFileAttributes;
 import java.util.Date;
 
+//клас що реалізує консоль
+//в ньому міститься метод chooseFile який виконує Task
 public class DisplayingOfDirectories {
+	
 	private MenuScanner in = MenuScanner.getInstance();
 	private Path previosPath = Paths.get("C:\\").getRoot();
 	private Path currentPath = Paths.get("C:\\").getRoot();
@@ -35,7 +38,7 @@ public class DisplayingOfDirectories {
 		while (true) {
 			System.out.print(currentPath + "$ ");
 			parse();
-
+			//	роботу з текстом виконує метод chooseFile 
 		}
 	}
 
@@ -145,7 +148,7 @@ public class DisplayingOfDirectories {
 
 			System.out.println("Path- " + currentPath);
 			System.out
-					.println("\tЧас останньої модийікації \t|Розмір\t|Чи папка?\t|Назва файла"
+					.println("\tЧас останньої модифікації \t|Розмір\t|Чи папка?\t|Назва файла"
 							+ "\n\t---------------------------------------------------------------------");
 			for (Path file : stream) {
 				File f = new File(file.toString());
@@ -171,7 +174,7 @@ public class DisplayingOfDirectories {
 					.get(path))) {
 				System.out.println("Path- " + Paths.get(path));
 				System.out
-						.println("\tЧас останньої модийікації \t|Розмір\t|Чи папка?\t|Назва файла"
+						.println("\tЧас останньої модифікації \t|Розмір\t|Чи папка?\t|Назва файла"
 								+ "\n\t---------------------------------------------------------------------");
 				for (Path file : stream) {
 					File f = new File(file.toString());

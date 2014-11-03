@@ -58,7 +58,7 @@ public class Task {
 						
 	}
 	
-	private static String readFromFile(String path) {
+	public static String readFromFile(String path) {
 		Main.LOG.info("Read text from file: '" + path + "'");
 		StringBuilder inputText = new StringBuilder();
 		File file = new File(path);
@@ -73,10 +73,10 @@ public class Task {
 
 		} catch (FileNotFoundException e) {
 			Main.LOG.error(e.getMessage());
-			e.printStackTrace();
+			//e.printStackTrace();
 		} catch (IOException e1) {
 			Main.LOG.error(e1.getMessage());
-			e1.printStackTrace();
+			//e1.printStackTrace();
 		}
 		return inputText.toString();
 	}
